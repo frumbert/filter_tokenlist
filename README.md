@@ -4,6 +4,11 @@ A quick filter plugin to substitute [[list-available-tokens]] with a table of co
 
 You probably never want to expose this to users.
 
+Requirements
+------------
+
+Relies on https://github.com/frumbert/enrol-token being present first.
+
 Compatibility
 -------------
 
