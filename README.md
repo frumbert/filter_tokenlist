@@ -17,7 +17,7 @@ Built on Moodle 3.8, probably works for 2.x branches too.
 Installation
 ------------
 
-Use the plugin installer (reccomended), or put the 'substitute' folder into your moodle filter folder.
+Use the plugin installer (reccomended), or put the 'tokenlist' folder into your moodle filter folder.
 
 Licence
 -------
